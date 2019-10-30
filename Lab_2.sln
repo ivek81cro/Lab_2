@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba2", "Vjezba2\Vjezba2.csproj", "{2F6509EE-4C94-492F-BA11-C7155A0E4DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{9B9AD784-72D6-4F56-B864-BFE122BB49E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6509EE-4C94-492F-BA11-C7155A0E4DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6509EE-4C94-492F-BA11-C7155A0E4DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6509EE-4C94-492F-BA11-C7155A0E4DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6509EE-4C94-492F-BA11-C7155A0E4DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9AD784-72D6-4F56-B864-BFE122BB49E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9AD784-72D6-4F56-B864-BFE122BB49E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9AD784-72D6-4F56-B864-BFE122BB49E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9AD784-72D6-4F56-B864-BFE122BB49E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {460B9E9E-7F87-4F18-8483-32156C72EAC6}
+	EndGlobalSection
+EndGlobal
